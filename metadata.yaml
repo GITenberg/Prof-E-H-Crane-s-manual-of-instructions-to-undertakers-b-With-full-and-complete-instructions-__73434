@@ -1,0 +1,34 @@
+_repo: Prof-E-H-Crane-s-manual-of-instructions-to-undertakers-b-With-full-and-complete-instructions-__73434
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crane, Elliot H.
+    alias: Crane, E. H.
+    gutenberg_agent_id: '56839'
+    url: http://www.gutenberg.org/2009/agents/56839
+description: ''
+edition_note: Revised edition.
+gutenberg_issued: '2024-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73434'
+  lccn: 08008256
+language: en
+pgterms:marc905: 20230912173900crane
+pgterms:marc906: '1888'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aKalamazoo, MI :$bCrane & Allen, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Embalming'
+- !lcsh 'Undertakers and undertaking'
+- !lcc 'RA'
+- GITenberg
+title: 'Prof. E. H. Crane''s manual of instructions to undertakers : $b With full
+  and complete instructions in the best methods for preserving the dead, including
+  minute directions for arterial injection'
+url: http://www.gutenberg.org/ebooks/73434
